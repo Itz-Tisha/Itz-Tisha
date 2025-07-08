@@ -27,6 +27,17 @@
 
 ---
 
+### 🛠️ Tools & IDEs
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse IDE" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+</p>
+
+---
+
 ### 📌 Projects
 
 - **CityBus Booking System** – Spring Boot-based bus reservation with role-based access  
@@ -39,4 +50,3 @@
 
 📧 Email: tishagoyani3@gmail.com  
 🌐 Portfolio: [itz-tisha.github.io/My_Portfolio](https://itz-tisha.github.io/My_Portfolio/)
-
